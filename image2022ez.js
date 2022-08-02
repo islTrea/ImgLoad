@@ -1,4 +1,4 @@
-var connected:
+var connected;
                           if(connected == true){
                                 function loadJSON(path, success, error){
                                     var xhr = new XMLHttpRequest();
